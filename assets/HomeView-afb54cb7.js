@@ -1,1 +1,0 @@
-import{_ as a,r as n,o as r,c,d as t,w as s,a as e,b as _}from"./index-73389829.js";const l={},d={class:"home"},u=_("hr",null,null,-1);function i(p,m,f,h,x,k){const o=n("router-link");return r(),c("div",d,[t(o,{to:"/"},{default:s(()=>[e("Home")]),_:1}),e(" | "),t(o,{to:"/about"},{default:s(()=>[e("About")]),_:1}),u])}const $=a(l,[["render",i]]);export{$ as default};
